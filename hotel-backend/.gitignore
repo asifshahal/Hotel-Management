@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment variables (keep secret!)
+.env
+
+# SQLite database (using Supabase now)
+*.db
+*.sqlite
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
